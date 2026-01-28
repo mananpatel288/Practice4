@@ -1,0 +1,3 @@
+Git helps developers track code changes, collaborate efficiently, manage versions, and safely experiment using branches, commits, and remote repositories.
+
+Git helps developers track code changes, collaborate efficiently, manage versions, and safely experiment using branches, commits, and remote repositories.
