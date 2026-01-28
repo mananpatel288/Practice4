@@ -1,3 +1,6 @@
 Git helps developers track code changes, collaborate efficiently, manage versions, and safely experiment using branches, commits, and remote repositories.
+<<<<<<< HEAD
 
 Git helps developers track code changes, collaborate efficiently, manage versions, and safely experiment using branches, commits, and remote repositories.
+=======
+>>>>>>> 79f78f4066865b0ee5adac9192019289a082ff05
