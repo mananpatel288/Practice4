@@ -1,0 +1,1 @@
+Branches allow developers to work independently, test features safely, and merge changes without affecting the main production codebase.
