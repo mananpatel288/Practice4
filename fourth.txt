@@ -1,0 +1,1 @@
+Using GitHub with Git simplifies project sharing, issue tracking, collaboration, and continuous integration across distributed development environments.
