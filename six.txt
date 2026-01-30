@@ -1,0 +1,1 @@
+This happens when the local branch does not contain the latest commits from the remote branch, and pushing would overwrite remote history. Git rejects non-fast-forward updates to prevent data loss.
