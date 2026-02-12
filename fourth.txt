@@ -1,0 +1,9 @@
+<<<<<<< Updated upstream
+Using GitHub with Git simplifies project sharing, issue tracking, collaboration, and continuous integration across distributed development environments.
+=======
+
+Do the practice of chapter 1 commands
+Do the practice of vim editor commands
+today's command Practice
+
+>>>>>>> Stashed changes

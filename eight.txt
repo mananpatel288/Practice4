@@ -1,0 +1,1 @@
+During cherry-pick, an add/add conflict happens when the same file is added in both branches. We resolve it manually, stage the file, and continue cherry-pick.
